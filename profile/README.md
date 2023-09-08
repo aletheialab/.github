@@ -4,9 +4,10 @@ CSPI is a non-profit organization that provides services where your security and
 
 # URLs
 - **Website:** https://cspi.network/
+- **Discord Server:** https://discord.gg/uqGXCDerQw
 - **Guides:** https://guides.cspi.network/
 - **Deep Details:** https://unrestricted.cspi.network/
-- **Discord Server:** https://discord.gg/uqGXCDerQw
+- **Resources (Services privacy-focused alternatives):** https://resources.cspi.network/
 
 # Contributors✨
 ### Resources (Development) 👑
