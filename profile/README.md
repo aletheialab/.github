@@ -14,7 +14,7 @@ CSPI is a non-profit organization that provides services where your security and
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/g0dsecurity"><img src="https://cdn.discordapp.com/avatars/709633457088888912/a_7d663f9719f6e89748886aed373fb08a.webp?size=128" width="100px;" height="100px" alt="g0dsecurity"/><br /><sub><b>g0dsecurity</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/g0dsecurity"><img src="https://qu.ax/CrGu.jpg" width="100px;" height="100px" alt="g0dsecurity"/><br /><sub><b>g0dsecurity</b></sub></a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Doubleoffline"><img src="https://cdn.discordapp.com/avatars/1101167883104571514/d339568a5a9d922f6f7b6f5b86086440.webp?size=80" width="100px;" height="100px" alt="double"/><br /><sub><b>Double</b></sub></a></td>
   </tbody>
 </table>
@@ -37,6 +37,6 @@ CSPI is a non-profit organization that provides services where your security and
  height="100px" alt="cabb0003"/><br /><sub><b>Cabb0003</b></sub></td>
       <td align="center" valign="top" width="14.28%"><img src="https://cdn.discordapp.com/avatars/195969408248709121/a_e0f4a6dd5879c25a89411059efa82a66.webp?size=128" width="100px;" 
  height="100px" alt="dqrkis"/><br /><sub><b>Dqrkis</b></sub></td>
-      <td align="center" valign="top" width="14.28%"><img src="https://cdn.discordapp.com/avatars/759600270702805002/98df8cf796d042325f852709486472ba.webp?size=32" width="100px;" height="100px" alt="everlasting summer"/><br /><sub><b>Everlasting Summer</b></sub></td>
+      <td align="center" valign="top" width="14.28%"><img src="https://qu.ax/XpNt.png" width="100px;" height="100px" alt="everlasting summer"/><br /><sub><b>Everlasting Summer</b></sub></td>
   </tbody>
 </table>
