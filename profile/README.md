@@ -1,9 +1,11 @@
-CSPI is a non-profit organization that provides services where your security and privacy is a high priority.
+<h4 align="center">CSPI is a non-profit organization that provides services where your security and privacy is a high priority.</h4>
+CSPI is not just an organization it's a community that welcomes everyone to join us in our mission to secure and help people about privacy. We invite you to join our mission by partnering with us, and working together as one for the future of digital security and privacy with trust.
 <img src="https://qu.ax/NYWW.png" alt="Made by yx_d"/>
 <img src="https://qu.ax/bKgr.png" alt="Made by dqrkis"/>
 
 # URLs
 - **Website:** https://cspi.network/
+- **Foundation (Services privacy-focused alternatives):** https://foundation.cspi.network/
 - **Discord Server:** https://discord.gg/uqGXCDerQw
 - **Guides:** https://guides.cspi.network/
 - **Deep Details:** https://unrestricted.cspi.network/
@@ -33,7 +35,7 @@ CSPI is a non-profit organization that provides services where your security and
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><img src="https://cdn.discordapp.com/avatars/523344721381294081/21b87bf71a8197ff9aafc6be0071fe49.webp?size=128" width="100px;" 
+      <td align="center" valign="top" width="14.28%"><img src="https://qu.ax/fora.png" width="100px;" 
  height="100px" alt="cabb0003"/><br /><sub><b>Cabb0003</b></sub></td>
       <td align="center" valign="top" width="14.28%"><img src="https://cdn.discordapp.com/avatars/195969408248709121/a_e0f4a6dd5879c25a89411059efa82a66.webp?size=128" width="100px;" 
  height="100px" alt="dqrkis"/><br /><sub><b>Dqrkis</b></sub></td>
