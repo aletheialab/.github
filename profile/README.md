@@ -25,7 +25,7 @@ CSPI is not just an organization it's a community that welcomes everyone to join
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/iUseYahoo"><img src="https://cdn.discordapp.com/avatars/732971774140088320/e08fab896271f734ec76ff38b463b79c.webp?size=32" width="100px;" height="100px" alt="altorx"/><br /><sub><b>Altorx</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/iUseYahoo"><img src="https://qu.ax/eGMx.png" width="100px;" height="100px" alt="altorx"/><br /><sub><b>Altorx</b></sub></a></td>
             <td align="center" valign="top" width="14.28%"><a href="https://github.com/lanmeglic"><img src="https://cdn.discordapp.com/avatars/855733572584079421/bf92da36522ddc84482e2d00445e27ad.webp?size=128" width="100px;" height="100px" alt="professor morph"/><br /><sub><b>Professor Morph</b></sub></a></td>
     <td align="center" valign="top" width="14.28%"><a href="https://github.com/cipherwithadot"><img src="https://cdn.discordapp.com/avatars/1039970054130901062/2887afaefc6634ed4195bb4e01794d92.webp?size=32" width="100px;" height="100px" alt="cipher"/><br /><sub><b>Cipher</b></sub></a></td>
   </tbody>
