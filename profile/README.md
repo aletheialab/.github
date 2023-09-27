@@ -7,7 +7,7 @@ CSPI is not just an organization it's a community that welcomes everyone to join
 - **Website:** https://cspi.network/
 - **Foundation:** https://foundation.cspi.network/
 - **Discord Server:** https://discord.gg/uqGXCDerQw
-- **Guides:** https://guides.cspi.network/
+- **Alliance:** https://alliance.cspi.network/
 - **Deep Details:** https://unrestricted.cspi.network/
 - **Resources (Services privacy-focused alternatives):** https://resources.cspi.network/
 
