@@ -1,2 +1,4 @@
 # Announcement
-I2rys and AletheiaLab has been rebrand. Please check https://github.com/firstdecree and https://github.com/ncryptsion
+I2rys and AletheiaLab have now been archived. We invite you to explore our rebrand at the following GitHub:
+- https://github.com/firstdecree
+  https://github.com/ncryptsion
